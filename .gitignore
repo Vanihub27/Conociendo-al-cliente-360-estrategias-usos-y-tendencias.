@@ -1,0 +1,17 @@
+# Entorno y credenciales
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Datos locales
+*.csv
+*.xlsx
